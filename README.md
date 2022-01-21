@@ -1,6 +1,6 @@
 # Microserviço de autenticação com Nodejs
 
-Este é um projeto desenvolvido durante o Bootcomp INTER dentro da [DIO](https://digitalinnovation.one/), uma plataforma de cursos gratuíta que todo DEV deveria conhecer! :wink:
+Este é um projeto desenvolvido durante o Bootcomp INTER dentro da [DIO](https://digitalinnovation.one/), uma plataforma de cursos gratuíta que todo DEV deveria conhecer!
 
 Neste projeto criei um **microserviço de autenticação** :hammer::wrench:
 
